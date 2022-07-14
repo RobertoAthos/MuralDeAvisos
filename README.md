@@ -14,4 +14,3 @@
 </div> <br>
 
 Um mural de avisos onde você consegue criar novos posts
-### Em manutenção
